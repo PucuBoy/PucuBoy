@@ -6,9 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=PucuBoy&style=flat-square&color=blue)
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=PucuBoy&style=flat-square&color=blue)
 
 # 👋 Hi there, I'm Yusuf Fadilah Septiandika
 
@@ -65,7 +63,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PucuBoy/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/PucuBoy/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
